@@ -3,4 +3,4 @@ A collection of math animations I programmed for various purposes including supp
 
 ## Note
 
-Check ''finished_product'' 
+Check the "finished-product" branch to see the animations. The source code for most videos has not been provided as it was lost during data transfer between laptops. 
